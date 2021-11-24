@@ -1,4 +1,4 @@
-Class Diagram
+**Class Diagram**
 
 Class diagrams are the main building block of any object-oriented solution. It shows the classes in a system, attributes, and operations of each class and the relationship between each class.
 
