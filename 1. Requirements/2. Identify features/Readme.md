@@ -1,16 +1,15 @@
-i. Identify Features:
+## i. Identify Features: ##
 
-It can hold any number of accounts and account can be added to the program at any time.
+It can store cutomer name.
 
-The programming of simple calculations such as calculation of due amount, balance etc. have been embed in the code of project.
+It can hold order quanity.
 
-The Customer Billing System project in C gives you the facility of searching the account by two ways, either by name of the customer or by the number of customers.
+It can hold item name and unit price.
 
-The due amount to be paid is shown as negative balance.
+It can calculate bill and generate invoice.
 
-If you have nothing to do with the program, you can directly exit from the main menu.
 
-ii. SOFTWARE and HARDWARE REQUIREMENTS
+## ii. SOFTWARE and HARDWARE REQUIREMENTS ##
 
 Following hardware specifications and software are required to run this project:
 
