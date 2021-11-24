@@ -4,12 +4,14 @@
 **High Level Test Plan**
 
 
-| TestID | Description                                | Exp I/P | Exp O/P                       | Actual O/P                    | Type of Test      |
-| ------ | ------------------------------------------ | ------- | ----------------------------- | ----------------------------- | ----------------- |
-| H_01   | Calculating Total Bill                     | 140     | 165.2                         | 165.2                         | Requirement Based |
-| H_02   | Generating Invoice with Customer name      | ----    | SUCCESS                       | SUCCESS                       | Requirement Based |
-| H_03   | When user enter option which is not listed | ----    | Give message "Invalid option" | Give message "Invalid option" | Scenario Based    |
-| H_04   | When no saved invoices to show             | ----    | Show no invoice message       | Show no invoice message       | Boundary based    |
+| TestID | Description                                                                                                                                  | Exp I/P | Exp O/P                       | Actual O/P                    | Type of Test      |
+| ------ | -------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------------------- | ----------------------------- | ----------------- |
+| H_01   | Calculating Total Bill i.e deducting 10% discount from bill and adding 18% to bill and then return the Total amount of bill                  | 140     | 165.2                         | 165.2                         | Requirement Based |
+| H_02   | Generating Invoice with Customer name                                                                                                        | ----    | SUCCESS                       | SUCCESS                       | Requirement Based |
+| H_03   | When user enter option which is not listed                                                                                                   | ----    | Give message "Invalid option" | Give message "Invalid option" | Scenario Based    |
+| H_04   | When no saved invoices to show                                                                                                               | ----    | Show no invoice message       | Show no invoice message       | Boundary based    |
+| H_05   | Saving the generated invoice in file with cutomer name                                                                                       | ----    | SUCCESS                       | SUCCESS                       | Requirement Based |
+| H_06   | Handeled Negative values, when user accidently give negative values of item quntity or item price , then app simply return '0' as total bill | ----    | SUCCESS                       | SUCCESS                       | Requirement Based |
 
 
 
