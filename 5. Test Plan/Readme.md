@@ -22,6 +22,6 @@
 | ------ | --------------------------------------------------- | ------------- | ------------------------ | ------------------------ | ----------------- |
 | L_01   | Calculating Particular Item Bill                    | 5 , 20       | 100                      | 100                     | Requirement Based |
 | L_02   | Calculating Bill with 10% Discount                  | 100           | 90                  | 90                    | Requirement Based |
-| L_03   | Calculating Bill with 18% GST                       | 90         | 73.5                   | 73.5                   | Requirement Based |
+| L_03   | Calculating Bill with 18% GST                       | 90         | 106.2                   | 106.2                   | Requirement Based |
 | L_04   | Search Invoice                                      | Customer Name | Customer Invoice         | Customer Invoice         | Requirement Based |
 | L_05   | Search Invoice (Multiple Invoices of same Customer) | Customer Name | All Invoices of Customer | All Invoices of Customer | Scenario Based    |
