@@ -20,4 +20,4 @@ Customers might pay you with cash, credit cards or, if you offer it, an installm
 
 HOW – How feature implemented in it?
 
-A billing software aims at reducing manual work of generating professional-looking, tax-compliant invoices. It is designed to handle time and billing tracking as well as invoicing customers for services and products. It can track the hours worked by employees as well as expenses associated with projects or clients.
+A billing software aims at reducing manual work of generating professional-looking, tax-compliant invoices. It is designed to handle time and billing tracking as well as invoicing customers for services and products.
