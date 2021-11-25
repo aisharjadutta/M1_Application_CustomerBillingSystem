@@ -151,17 +151,17 @@ COMMUNICATION DIAGRAM
 
 ![image](https://user-images.githubusercontent.com/72429535/143391091-778808fd-326b-4fa4-8dc5-9da938178b1d.png)
 
-Implementation
+## Implementation ##
 
-Setup to run Project
+- Setup to run Project
 
-Installing Visual Studio Code).
+- Installing Visual Studio Code).
 
-GCC compiler to compile the project.
+- GCC compiler to compile the project.
 
-"make" to run the Makefile smoothly.
+- "make" to run the Makefile smoothly.
 
-Steps To run Project
+- Steps To run Project
 
 First clone the repository from the Github.
 
@@ -171,7 +171,7 @@ The next step is to build the project with the help of make command :
 
 make all
 
-Next step is to run the project with help of make command :
+- Next step is to run the project with help of make command :
 
 make run
 
@@ -179,7 +179,7 @@ If you want to run the test cases then run the following command :
 
 make test
 
-Clean all executable files by following command :
+- Clean all executable files by following command :
 
 make clean
 
