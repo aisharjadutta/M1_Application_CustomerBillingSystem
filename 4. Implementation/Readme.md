@@ -1,4 +1,4 @@
-Implementation
+## Implementation ##
 
 Setup to run Project
 
@@ -8,7 +8,7 @@ GCC compiler to compile the project.
 
 "make" to run the Makefile smoothly.
 
-Steps To run Project
+## Steps To run Project ##
 
 First clone the repository from the Github.
 
