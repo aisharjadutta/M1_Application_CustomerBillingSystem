@@ -1,4 +1,5 @@
 ### UML ###
+----------------------------------------------------------
 
 The elements are like components which can be associated in different ways to make a complete UML picture, which is known as diagram. Thus, it is very important to understand the different diagrams to implement the knowledge in real-life systems.
 
